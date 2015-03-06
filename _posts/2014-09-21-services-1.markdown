@@ -1,9 +1,0 @@
----
-layout: default
-image: https://cloud.githubusercontent.com/assets/6749884/6531288/0e2475de-c406-11e4-8532-90bb1cfae763.JPG
-category: Services
-title: Highway = Trunk:<br>
-description: |
-  <p class="lead">A National Highway (Trunk) is the highest Road classification in the transportation network as defined by Roads and Highways Department of the Ministry of Communications (RHD). This guidance come from the Bangladesh OSM wiki http://wiki.openstreetmap.org/wiki/WikiProject_Bangladesh. National Highways are paved, have road surface markings, and have multiple lanes.</p>
-
----
