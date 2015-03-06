@@ -1,3 +1,4 @@
+
 ---
 title: Bangladesh Area River
 category: tip
@@ -10,7 +11,6 @@ description:
  <p>Most of the large river area coastline in this region were not collected by hand and are incorrect. River sections can easily be adjusted by moving each node. wiki.openstreetmap.org/wiki/Water</p>
  
  <p>Here's an example of an area river feature</p>
- 
  
 ---
 ![](https://cloud.githubusercontent.com/assets/4990708/6395711/e3938f58-bda7-11e4-8a2f-bd796d18607c.PNG)
