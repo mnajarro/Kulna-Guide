@@ -2,11 +2,8 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Highway = Trunk:<br>
 description: |
-  <p class="lead">A special thanks to <a target="_blank"
-  href="http://join.deathtothestockphoto.com/">Death to the Stock
-  Photo</a> for providing the photographs that you see in this template.
-  Visit their website to become a member!</p>
+  <p class="lead">A National Highway (Trunk) is the highest Road classification in the transportation network as defined by Roads and Highways Department of the Ministry of Communications (RHD). This guidance come from the Bangladesh OSM wiki http://wiki.openstreetmap.org/wiki/WikiProject_Bangladesh. National Highways are paved, have road surface markings, and have multiple lanes.</p>
 
 ---
