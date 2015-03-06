@@ -6,7 +6,7 @@ image2: https://cloud.githubusercontent.com/assets/4990708/6395716/e68f55de-bda7
 tags: [Bangladesh, Water, River, Hydrography]
 description:
 
- <h5>Natural = Water; Water = Pond (Homestead water body)</h5> <p>A homestead water body is a man-made water catchment located near buildings and houses. Water color will vary greatly depending on the purpose of the homestead water body. wiki.openstreetmap.org/wiki/Water</p>
+ <h3>Natural = Water; Water = Pond (Homestead water body)</h3> <p>A homestead water body is a man-made water catchment located near buildings and houses. Water color will vary greatly depending on the purpose of the homestead water body. wiki.openstreetmap.org/wiki/Water</p>
  <p>Most of the large river area coastline in this region were not collected by hand and are incorrect. River sections can easily be adjusted by moving each node. wiki.openstreetmap.org/wiki/Water</p>
  
  <p>Here's an example of an area river feature</p>
