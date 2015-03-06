@@ -1,4 +1,9 @@
-
+---
+title: Bangladesh Area River
+category: tip
+image: image-link
+tags: [Bangladesh, Water, River, Hydrography]
+---
 ---
 title: Bangladesh Area River
 category: tip
