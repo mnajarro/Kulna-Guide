@@ -1,7 +1,8 @@
 ---
 title: Bangladesh Area River
 category: tip
-image: image-link
+image: https://cloud.githubusercontent.com/assets/4990708/6395711/e3938f58-bda7-11e4-8a2f-bd796d18607c.PNG
+image2: https://cloud.githubusercontent.com/assets/4990708/6395716/e68f55de-bda7-11e4-9553-e684324ea656.PNG
 tags: [Bangladesh, Water, River, Hydrography]
 description:
 
