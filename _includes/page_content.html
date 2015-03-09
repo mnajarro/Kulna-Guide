@@ -16,10 +16,10 @@
                     
                 </div>
                 {% if post.image4 == 'yes' %} 
-                <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=89.3844223022461%2C22.701771555093703%2C89.67109680175781%2C22.85640378959344&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/#map=13/22.7791/89.5278">View Larger Map</a></small>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                     {{post.hlocation}}
                     <img class="img-responsive" src="{{ post.image }}" alt="">
+                    {{ post.slippy }}
                     <!--<img class="img-responsive" src="img/services/{{ post.img }}" alt=""> -->
                 </div><br>
                 <div class="col-lg-5 col-lg-offset-7 col-sm-6">
