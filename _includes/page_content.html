@@ -13,13 +13,12 @@
                     
                     <h2 class="section-heading">{{ post.title }}</h2>
                     {{ post.description }}
-                    
+                    {{ post.slippy }}
                 </div>
-                {% if post.image4 == 'yes' %} 
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                     {{post.hlocation}}
                     <img class="img-responsive" src="{{ post.image }}" alt="">
-                    {{ post.slippy }}
+                    
                     <!--<img class="img-responsive" src="img/services/{{ post.img }}" alt=""> -->
                 </div><br>
                 <div class="col-lg-5 col-lg-offset-7 col-sm-6">
