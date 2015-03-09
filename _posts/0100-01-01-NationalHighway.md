@@ -1,6 +1,6 @@
 ---
 hlocation: <p id="nhighway"> </p><br>
-title: National Highway - Bangladesh
+title: National Highway
 category: tip
 image: https://cloud.githubusercontent.com/assets/4990708/6477424/e1d09a28-c1f1-11e4-930a-485b20df2477.PNG
 image2: https://cloud.githubusercontent.com/assets/4990708/6477428/ea98ae66-c1f1-11e4-81f8-451dc1cf7ef6.PNG
