@@ -6,25 +6,33 @@
 
         <div class="container">
         
-        <div class="row">
-                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
-                    <br><img class="img-responsive" src="{{ post.image2 }}" alt="">
-                </div>
-                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                  {{post.hlocation}}
-                  <hr class="section-heading-spacer">
+            <div class="row">
+                <div id="test" class="col-lg-5 col-sm-6">
+                    <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     
                     <h2 class="section-heading">{{ post.title }}</h2>
                     {{ post.description }}
-                </div><br>
-                <div class="col-lg-5 col-sm-pull-0  col-sm-6">
-                    <br><img class="img-responsive" src="{{ post.image2 }}" alt="">
+                    
+                    
                 </div>
+                
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+                    {{post.hlocation}}
+                    <img class="img-responsive" src="{{ post.image }}" alt="">
+                    {{ post.slippy }}
+                    <!--<img class="img-responsive" src="img/services/{{ post.img }}" alt=""> -->
+                </div><br>
+                <div class="col-lg-5 col-sm-6">
+                <br><img class="img-responsive" src="{{ post.image2 }}" alt="">
+                </div>
+                <div class="col-lg-5 col-lg-offset-7 col-sm-6">
                     <br><img class="img-responsive" src="{{ post.image2 }}" alt="">
                 </div>
-          </div>
+                
+                
+                
+            </div>
 
         </div>
         <!-- /.container -->
